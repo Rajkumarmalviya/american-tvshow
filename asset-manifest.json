@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/american-tvshow/static/css/main.6559c170.css",
+    "main.js": "/american-tvshow/static/js/main.b6a958e8.js",
+    "index.html": "/american-tvshow/index.html",
+    "main.6559c170.css.map": "/american-tvshow/static/css/main.6559c170.css.map",
+    "main.b6a958e8.js.map": "/american-tvshow/static/js/main.b6a958e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6559c170.css",
+    "static/js/main.b6a958e8.js"
+  ]
+}
