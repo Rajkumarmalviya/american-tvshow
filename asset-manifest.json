@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/american-tvshow/static/css/main.1eec3581.css",
+    "main.css": "/american-tvshow/static/css/main.593a185c.css",
     "main.js": "/american-tvshow/static/js/main.fa1f8757.js",
     "index.html": "/american-tvshow/index.html",
-    "main.1eec3581.css.map": "/american-tvshow/static/css/main.1eec3581.css.map",
+    "main.593a185c.css.map": "/american-tvshow/static/css/main.593a185c.css.map",
     "main.fa1f8757.js.map": "/american-tvshow/static/js/main.fa1f8757.js.map"
   },
   "entrypoints": [
-    "static/css/main.1eec3581.css",
+    "static/css/main.593a185c.css",
     "static/js/main.fa1f8757.js"
   ]
 }
